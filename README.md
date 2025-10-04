@@ -78,15 +78,3 @@ This will:
 * **Conclusion:** Maintaining a low load factor (e.g., via dynamic resizing and good hash functions) is critical for constant-time performance.
 
 ---
-
-## Files
-
-* `quicksort_experiments.py` – Implements and benchmarks Randomized and Deterministic Quicksort.
-* `hashing_experiments.py` – Implements a chained hash table and benchmarks performance.
-* `report.pdf` – Full write-up with theoretical proofs, empirical results, and analysis.
-
----
-
-## Authors
-
-Ronit Pawar
